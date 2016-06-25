@@ -35,3 +35,14 @@ jspm_packages
 
 # Optional REPL history
 .node_repl_history
+
+# Webstorm project director
+/.idea
+
+# Typings directory
+
+/typings
+
+# JS files (keep only TypeScript in /app/)
+/app/*.js
+/app/*.map
